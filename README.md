@@ -1,7 +1,6 @@
-# DP Research Assistant
+# Research Assistant
 
-A production-grade AI research assistant for differential privacy (DP)
-and electronic health records (EHR) research.
+A production-grade AI research assistant.
 
 Built with: Anthropic Claude, pgvector, voyage-3, LangGraph, FastAPI.
 
