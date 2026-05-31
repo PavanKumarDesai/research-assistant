@@ -1,0 +1,12 @@
+anthropic>=0.40.0
+voyageai>=0.2.3
+pymupdf>=1.24.0          # PDF parsing — fast and accurate
+arxiv==2.1.3             # ArXiv paper download
+psycopg2-binary>=2.9.9   # Postgres driver
+pgvector>=0.3.2          # pgvector Python adapter
+langchain-text-splitters>=0.3.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.9.0
+python-dotenv>=1.0.0
+rich>=13.0.0             # pretty console output
